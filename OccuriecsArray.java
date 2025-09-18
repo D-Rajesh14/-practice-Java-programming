@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class OccuriecsArray {
+class OccuriecesArray {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int numArray[] = ArrayUtility.inputArray();
