@@ -13,4 +13,12 @@ public class ArrayUtility{
         }
         return nums;
     }
+    public static void displayArray(int[]  nemArr){
+      int i=0;
+      while(i<nemArr.length){
+          System.out.print(nemArr[i]+" ");
+          i++;
+    }
+
+}
 }
